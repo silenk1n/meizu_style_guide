@@ -141,7 +141,7 @@
 ## 参考
 
 1. 《标点符号用法(GB/T15834-011)》
-2. *[Apple Style Guide](https://help.apple.com/asg/mac/2013/ASG_2013.pdf)*
+2. *[Apple Style Guide](https://help.apple.com/applestyleguide/)*
 3. *[The Economist Style Guide](http://www.economist.com/styleguide/introduction)*
 4. 《政治与英语》
 5. 《[豌豆荚文案风格指南](https://docs.google.com/document/d/1R8lMCPf6zCD5KEA8ekZ5knK77iw9J-vJ6vEopPemqZM/edit#heading=h.wwm9rx-11m0cb)》
